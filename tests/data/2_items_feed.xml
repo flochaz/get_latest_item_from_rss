@@ -1,0 +1,95 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcastRF="http://radiofrance.fr/Lancelot/Podcast#" version="2.0">
+<channel>
+<title>Histoires du monde</title>
+<link>
+http://www.franceinter.fr/emission-les-histoires-du-monde
+</link>
+<description>Histoires du monde</description>
+<language>fr</language>
+<copyright>Radio France</copyright>
+<lastBuildDate>Wed, 01 Mar 2017 07:06:17 +0100</lastBuildDate>
+<generator>Radio France</generator>
+<image>
+<url>
+http://media.radiofrance-podcast.net/podcast09/RF_OMM_0000015450_ITE.jpg
+</url>
+<title>Histoires du monde</title>
+<link>
+http://www.franceinter.fr/emission-les-histoires-du-monde
+</link>
+</image>
+<itunes:author>France Inter</itunes:author>
+<itunes:category text="News & Politics"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://media.radiofrance-podcast.net/podcast09/RF_OMM_0000015450_ITE.jpg"/>
+<itunes:owner>
+<itunes:email>podcast@radiofrance.com</itunes:email>
+<itunes:name>Radio France</itunes:name>
+</itunes:owner>
+<itunes:subtitle>Histoires du monde</itunes:subtitle>
+<itunes:summary>Histoires du monde</itunes:summary>
+<podcastRF:originStation>1000</podcastRF:originStation>
+<item>
+<title>
+Aux Etats-Unis, une petite ville de l'Illinois se mobilise pour défendre "leur Mexicain"
+</title>
+<link>
+https://www.franceinter.fr/emissions/les-histoires-du-monde/les-histoires-du-monde-01-mars-2017
+</link>
+<description>
+durée : 00:03:18 - Histoires du monde - La petite ville en question s'appelle West Francfort, elle compte 8 000 habitants et a voté à plus de 70% pour Donald Trump en novembre dernier.
+</description>
+<author>podcast@radiofrance.com</author>
+<category>News & Politics</category>
+<enclosure url="http://rf.proxycast.org/1271308508918194176/14518-01.03.2017-ITEMA_21245337-0.mp3" length="3672192" type="audio/mpeg"/>
+<guid>
+http://media.radiofrance-podcast.net/podcast09/14518-01.03.2017-ITEMA_21245337-0.mp3
+</guid>
+<pubDate>Wed, 01 Mar 2017 06:49:00 +0100</pubDate>
+<podcastRF:businessReference>23925</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2017F23925S0060</podcastRF:magnetothequeID>
+<podcastRF:stepID>13675617</podcastRF:stepID>
+<itunes:author>France Inter</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>
+Aux,Etats-Unis,,une,petite,ville,de,l'Illinois,se,mobilise,pour,défendre,"leur,Mexicain"
+</itunes:keywords>
+<itunes:subtitle>Émission du 01.03.2017</itunes:subtitle>
+<itunes:summary>
+durée : 00:03:18 - La petite ville en question s'appelle West Francfort, elle compte 8 000 habitants et a voté à plus de 70% pour Donald Trump en novembre dernier.
+</itunes:summary>
+<itunes:duration>00:03:18</itunes:duration>
+</item>
+<item>
+<title>
+En Turquie: un livre publié il y a 75 ans connaît un immense succès
+</title>
+<link>
+https://www.franceinter.fr/emissions/les-histoires-du-monde/les-histoires-du-monde-28-fevrier-2017
+</link>
+<description>
+durée : 00:04:16 - Histoires du monde - Le livre s'appelle &quot;La Madone au manteau de fourrure&quot; et il a été publié pour la première fois en 1943.
+</description>
+<author>podcast@radiofrance.com</author>
+<category>News & Politics</category>
+<enclosure url="http://rf.proxycast.org/1270937805471621120/14518-28.02.2017-ITEMA_21244133-0.mp3" length="4597888" type="audio/mpeg"/>
+<guid>
+http://media.radiofrance-podcast.net/podcast09/14518-28.02.2017-ITEMA_21244133-0.mp3
+</guid>
+<pubDate>Tue, 28 Feb 2017 06:49:00 +0100</pubDate>
+<podcastRF:businessReference>23925</podcastRF:businessReference>
+<podcastRF:magnetothequeID>2017F23925S0059</podcastRF:magnetothequeID>
+<podcastRF:stepID>13671647</podcastRF:stepID>
+<itunes:author>France Inter</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:keywords>
+En,Turquie:,un,livre,publié,il,y,a,75,ans,connaît,un,immense,succès
+</itunes:keywords>
+<itunes:subtitle>Émission du 28.02.2017</itunes:subtitle>
+<itunes:summary>
+durée : 00:04:16 - Le livre s'appelle &quot;La Madone au manteau de fourrure&quot; et il a été publié pour la première fois en 1943.
+</itunes:summary>
+<itunes:duration>00:04:16</itunes:duration>
+</item>
+</channel>
+</rss>
